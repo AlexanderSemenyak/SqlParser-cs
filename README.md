@@ -1,3 +1,5 @@
+origin: https://github.com/TylerBrinks/SqlParser-cs
+
 # Extensible SQL Lexer and Parser for .NET
 
 [![NuGet Status](https://img.shields.io/nuget/v/sqlparsercs.svg)](https://www.nuget.org/packages/sqlparsercs/)  [![CD](https://github.com/TylerBrinks/SqlParser-cs/actions/workflows/cd.yml/badge.svg)](https://github.com/TylerBrinks/SqlParser-cs/actions/workflows/cd.yml) 
